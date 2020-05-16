@@ -11,6 +11,7 @@
 
 html,
 body {
+  background-color: khaki;
   color: hsl(0, 0%, 33%);
   font-family: san-serif;
   font-size: 1.2rem;
