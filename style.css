@@ -1,0 +1,28 @@
+:root {
+  box-sizing: border-box;
+  font-size: 1em;
+}
+
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  color: hsl(0, 0%, 33%);
+  font-family: san-serif;
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+main {
+  margin: 3em auto;
+  max-width: 90vw;
+  width: 50ch;
+}
+
+h1 {
+  color: hsl(0, 0%, 20%);
+}
